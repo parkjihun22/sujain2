@@ -382,7 +382,7 @@ const Main = () => {
                 <img src={section4_Image1} alt="브레인시티수자인브랜드소개-image4" />
                 <div className={styles.text1}>평택 브레인시티 수자인</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
-                <div className={styles.text3}>당신의 삶, 그 고귀함이 계속되길</div>
+                <div className={styles.text3}>당신의 삶, 브레인시티수자인에서 시작됩니다</div>
               </div>
               <div className={styles.textBox}>
                 <div className={styles.text1}>UNITPLAN</div>
@@ -552,10 +552,10 @@ const Main = () => {
               "방문예약을 하시면 신세계 상품권 100% 증정 "
             </div>
             <div className={styles.text3}>
-              - 브레인시티 중심상업지구 가장인접한 입지<br />
-              - 첨단 아주대학교 AI종합병원, 의료R＆D센터 도보 5분<br />
-              - 평택 지제역 KTX, GTX-A · C 확정 삼성전자 평택캠퍼스, 초등학교, 수변공원<br />
-              - 모두를 누리는 반도체밸리 주거 타운의 완성
+              - 브레인시티내 핵심인프라 인접한 입지<br />
+              - 첨단 아주대학교 AI종합병원 도보 5분<br />
+              - 평택 지제역 KTX, GTX-A · C 확정 삼성전자 평택캠퍼스, 초등학교<br />
+              - 모두를 누리는 반도체밸리 주거 타운의 프리미엄
             </div>
             <div className={styles.text4}>
               <a href="https://naver.me/55rUFpYq" target="_black">
