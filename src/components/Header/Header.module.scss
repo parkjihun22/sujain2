@@ -1,0 +1,195 @@
+/* 기본 gif 배너 높이를 변수로 정의 */
+:root {
+    --gif-banner-height: 11.04vh; /* 데스크탑 기본 높이 */
+  }
+  
+  @media (max-width: 900px) {
+    :root {
+      --gif-banner-height: 4vh; /* 모바일 기본 높이 */
+    }
+  }
+  
+  /* GIF 배너: 전체 너비, 중앙 정렬, 양쪽 초록색 배경 */
+  .gifBanner {
+    width: 100%;
+    /* gif 배너 높이 + 안전 영역(top) */
+    height: calc(var(--gif-banner-height) + env(safe-area-inset-top, 0px));
+    text-align: center;
+    background-color: #07456E;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    /* 안전 영역 만큼 패딩 추가 */
+    padding-top: env(safe-area-inset-top, 0px);
+    box-sizing: border-box;
+  
+    img {
+      display: inline-block;
+      width: 60vw;
+      height: auto;
+      max-width: 100%;
+    }
+  }
+  
+  @media (max-width: 900px) {
+    .gifBanner {
+      height: calc(var(--gif-banner-height) + env(safe-area-inset-top, 0px));
+      img {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+      }
+    }
+  }
+  
+  /* 헤더 전체 래퍼: GIF 배너 바로 아래에 위치하도록 */
+  .headerWrapper {
+    position: fixed;
+    /* JS로 동적으로 측정된 --header-top 변수가 있으면 그 값 사용, 없으면 기본값 사용 */
+    top: var(--header-top, calc(var(--gif-banner-height) + env(safe-area-inset-top, 0px)));
+    left: 0;
+    width: 100%;
+    z-index: 1001;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+  
+  /* 기존 PC 헤더 (투명 그라데이션 배경) - 내부 요소 중앙 정렬 */
+  .headerInitial {
+    font-family: 'MinSans-Regular';
+    width: 100%;
+    height: 4vw; /* 헤더 높이 */
+    z-index: 100;
+    background: linear-gradient(135deg, rgba(7, 33, 55, 0.785) 50%, rgba(3, 31, 51, 0.878) 70%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    padding: 0 2rem;
+    position: relative;
+  }
+  
+  /* 로고: 기존 크기 유지 */
+  .logo {
+    margin-top: 0.5vw;
+    width: 5.5vw;
+    height: auto;
+  }
+  
+  /* 상단 메뉴 영역 */
+  .itemBox {
+    display: flex;
+    flex-direction: row;
+    gap: 1.1rem;
+    align-items: center;
+  }
+  
+  /* 모바일 상담예약 링크 */
+  .consultLink {
+    font-family: 'MinSans-Regular';
+    text-decoration: none;
+    font-size: 0.85vw;
+    color: #FFFFFF;
+    padding: 0.5vw 0;
+    transition: color 0.3s ease;
+  
+    &:hover {
+      color: #d59c38;
+    }
+  }
+  
+  /* 각 상단 메뉴 항목 */
+  .navItem {
+    position: relative;
+  }
+  
+  /* 상단 메뉴 링크 */
+  .navLink {
+    text-decoration: none;
+    font-size: 0.9vw;
+    color: #FFFFFF;
+    padding: 0.5vw 0;
+    transition: color 0.3s ease;
+  
+    &:hover {
+      color: #d59c38;
+    }
+  }
+  
+  /* 전화번호 */
+  .phoneNumber {
+    font-family: 'Pretendard-Regular';
+    text-decoration: none;
+    font-size: 1.2vw;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 0.2vw;
+    transition: color 0.3s ease;
+  
+    &:hover {
+      color: #d59c38;
+    }
+  }
+  
+  /* full‑width 드롭다운 컨테이너 */
+  .dropdownContainer {
+    position: absolute;
+    top: 4vw;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    padding: 0 2rem;
+    z-index: 90;
+  }
+  
+  /* 드롭다운 내 서브 메뉴 항목 */
+  .dropdownContent {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  /* 드롭다운 항목 */
+  .dropdownItem {
+    text-decoration: none;
+    font-size: 0.7rem;
+    color: #07456E;
+    padding: 0.5rem 1rem;
+    transition: background 0.3s ease;
+  
+    &:hover {
+      background: #d59c38;
+    }
+  }
+  
+  /* 모바일 헤더 */
+  .mobileHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    /* 헤더가 GIF 배너 바로 아래에 위치하도록 --header-top 변수 사용 */
+    top: 8.3vw;
+    left: 0;
+    padding: 5vw 0 4vw 0;
+    width: 100%;
+    height: 4vw;
+    background-color: #ffffff;
+    border-bottom: 1px solid #07456E;
+    z-index: 1001;
+    text-decoration: none;
+  
+    .logo {
+      margin-top: -0.5vw;
+      width: 27vw;
+    }
+    .icon {
+      margin: 20vw 3.5vw;
+    }
+  }
+  
