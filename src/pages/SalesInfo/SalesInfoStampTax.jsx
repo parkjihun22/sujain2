@@ -68,7 +68,7 @@ const ComplexGuide1 = () => {
           name="keywords"
           content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
         />
-        <link rel="canonical" href="https://www.vaaclubs.com/SalesInfo/stampTax" />
+        <link rel="canonical" href="https://www.ys-sujain.co.kr/SalesInfo/stampTax" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -81,11 +81,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.ys-sujain.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.vaaclubs.com/SalesInfo/stampTax"
+          content="https://www.ys-sujain.co.kr/SalesInfo/stampTax"
         />
         <meta property="og:site_name" content="평택 브레인시티 수자인" />
 
@@ -101,11 +101,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.ys-sujain.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.vaaclubs.com/SalesInfo/stampTax"
+          content="https://www.ys-sujain.co.kr/SalesInfo/stampTax"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -116,7 +116,7 @@ const ComplexGuide1 = () => {
              "@type": "WebPage",
              "name": "평택 브레인시티 수자인 - 인지세안내",
              "description": "평택브레인시티수자인의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.",
-             "url": "https://www.vaaclubs.com/SalesInfo/stampTax"
+             "url": "https://www.ys-sujain.co.kr/SalesInfo/stampTax"
                  }
                  `}
         </script>

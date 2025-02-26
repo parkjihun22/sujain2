@@ -63,7 +63,7 @@ const Brand2 = () => {
           name="keywords"
           content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
         />
-        <link rel="canonical" href="https://www.vaaclubs.com/Brand/video" />
+        <link rel="canonical" href="https://www.ys-sujain.co.kr/Brand/video" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="평택 브레인시티 수자인 - 홍보영상" />
@@ -73,11 +73,11 @@ const Brand2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.ys-sujain.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.vaaclubs.com/Brand/video"
+          content="https://www.ys-sujain.co.kr/Brand/video"
         />
         <meta property="og:site_name" content="평택 브레인시티 수자인" />
 
@@ -93,11 +93,11 @@ const Brand2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.ys-sujain.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.vaaclubs.com/Brand/video"
+          content="https://www.ys-sujain.co.kr/Brand/video"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -108,7 +108,7 @@ const Brand2 = () => {
 																"@type": "WebPage",
 																"name": "평택 브레인시티 수자인 - 홍보영상",
 																"description": "최첨단 영상 기술과 감성적 스토리텔링이 어우러진 홍보영상으로, 브랜드의 미래 비전과 핵심 가치를 생생하게 전달합니다. 창의적 연출이 고객의 마음을 사로잡아 잊지 못할 경험을 선사합니다. 혁신적 비주얼과 감동 스토리로 모두를 사로잡습니다.",
-																"url": "https://www.vaaclubs.com/Brand/video"
+																"url": "https://www.ys-sujain.co.kr/Brand/video"
 															}
 															`}
         </script>

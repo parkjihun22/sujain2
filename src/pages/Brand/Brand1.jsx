@@ -71,7 +71,7 @@ const Brand1 = () => {
           name="keywords"
           content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
         />
-        <link rel="canonical" href="https://www.vaaclubs.com/Brand/intro" />
+        <link rel="canonical" href="https://www.ys-sujain.co.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -85,11 +85,11 @@ const Brand1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.ys-sujain.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.vaaclubs.com/Brand/intro"
+          content="https://www.ys-sujain.co.kr/Brand/intro"
         />
         <meta property="og:site_name" content="평택 브레인시티 수자인" />
 
@@ -106,11 +106,11 @@ const Brand1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.ys-sujain.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.vaaclubs.com/Brand/intro"
+          content="https://www.ys-sujain.co.kr/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -122,7 +122,7 @@ const Brand1 = () => {
                                             "name": "평택 브레인시티 수자인 - 브랜드 소개",
                                             "description": "평택 브레인시티 수자인의 브랜드 철학과 가치를 소개합니다. 현대건설의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 ",
-                                            "url": "https://www.vaaclubs.com/Brand/intro"
+                                            "url": "https://www.ys-sujain.co.kr/Brand/intro"
                                         }
                                         `}
         </script>
