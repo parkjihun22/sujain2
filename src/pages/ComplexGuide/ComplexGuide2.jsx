@@ -58,14 +58,14 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 호수배치도</title>
+        <title>브레인시티수자인 모델하우스 - 호수배치도</title>
         <meta
           name="description"
           content="호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다."
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link
           rel="canonical"
@@ -75,7 +75,7 @@ const ComplexGuide1 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="평택 브레인시티 수자인 - 호수배치도"
+          content="브레인시티수자인 모델하우스 - 호수배치도"
         />
         <meta
           property="og:description"
@@ -89,13 +89,13 @@ const ComplexGuide1 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/ComplexGuide/detailintro"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 호수배치도"
+          content="브레인시티수자인 모델하우스 - 호수배치도"
         />
         <meta
           name="twitter:description"
@@ -116,7 +116,7 @@ const ComplexGuide1 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "평택 브레인시티 수자인 - 호수배치도",
+			"name": "브레인시티수자인 모델하우스 - 호수배치도",
 			"description": "호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다.",
 			"url": "https://www.ys-sujain.co.kr/ComplexGuide/detailintro"
 					}
@@ -130,7 +130,7 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택브레인시티수자인 - 호수배치도
+        브레인시티수자인 모델하우스 - 호수배치도
       </h1>
       <p className={styles.screenReaderOnly}>
         호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이

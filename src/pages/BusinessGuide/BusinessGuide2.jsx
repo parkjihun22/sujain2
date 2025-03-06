@@ -61,22 +61,22 @@ const BusinessGuide2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 분양일정</title>
+        <title>브레인시티수자인 모델하우스 - 분양일정</title>
         <meta
           name="description"
-          content="평택브레인시티수자인의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요."
+          content="브레인시티수자인 모델하우스의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요."
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link rel="canonical" href="https://www.ys-sujain.co.kr/BusinessGuide/plan" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="평택 브레인시티 수자인 - 분양일정" />
+        <meta property="og:title" content="브레인시티수자인 모델하우스 - 분양일정" />
         <meta
           property="og:description"
-          content="평택브레인시티수자인의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요."
+          content="브레인시티수자인 모델하우스의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요."
         />
         <meta
           property="og:image"
@@ -86,17 +86,17 @@ const BusinessGuide2 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/BusinessGuide/plan"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 분양일정"
+          content="브레인시티수자인 모델하우스 - 분양일정"
         />
         <meta
           name="twitter:description"
-          content="평택브레인시티수자인의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요."
+          content="브레인시티수자인 모델하우스의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요."
         />
         <meta
           name="twitter:image"
@@ -113,8 +113,8 @@ const BusinessGuide2 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "평택 브레인시티 수자인 - 분양일정",
-			"description": "평택브레인시티수자인의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요.",
+			"name": "브레인시티수자인 모델하우스 - 분양일정",
+			"description": "브레인시티수자인 모델하우스의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요.",
 			"url": "https://www.ys-sujain.co.kr/BusinessGuide/plan"
 					}
 					`}
@@ -129,10 +129,10 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택브레인시티수자인 - 분양일정
+        브레인시티수자인 모델하우스 - 분양일정
       </h1>
       <p className={styles.screenReaderOnly}>
-        평택브레인시티수자인의 분양 일정은 중요한 날짜들을 안내하는 핵심
+        브레인시티수자인 모델하우스의 분양 일정은 중요한 날짜들을 안내하는 핵심
         정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을
         실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리
         진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을

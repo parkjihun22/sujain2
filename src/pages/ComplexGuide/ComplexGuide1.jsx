@@ -58,14 +58,14 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 단지배치도</title>
+        <title>브레인시티수자인 모델하우스 - 단지배치도</title>
         <meta
           name="description"
-          content="단지 배치도 페이지는 평택브레인시티수자인의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다."
+          content="단지 배치도 페이지는 브레인시티수자인 모델하우스의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다."
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link
           rel="canonical"
@@ -75,11 +75,11 @@ const ComplexGuide1 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="평택 브레인시티 수자인 - 단지배치도"
+          content="브레인시티수자인 모델하우스 - 단지배치도"
         />
         <meta
           property="og:description"
-          content="단지 배치도 페이지는 평택브레인시티수자인의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다."
+          content="단지 배치도 페이지는 브레인시티수자인 모델하우스의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다."
         />
         <meta
           property="og:image"
@@ -89,17 +89,17 @@ const ComplexGuide1 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/ComplexGuide/intro"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 단지배치도"
+          content="브레인시티수자인 모델하우스 - 단지배치도"
         />
         <meta
           name="twitter:description"
-          content="단지 배치도 페이지는 평택브레인시티수자인의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다."
+          content="단지 배치도 페이지는 브레인시티수자인 모델하우스의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다."
         />
         <meta
           name="twitter:image"
@@ -116,8 +116,8 @@ const ComplexGuide1 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "평택 브레인시티 수자인 - 단지배치도",
-			"description": "단지 배치도 페이지는 평택브레인시티수자인의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다.",
+			"name": "브레인시티수자인 모델하우스 - 단지배치도",
+			"description": "단지 배치도 페이지는 브레인시티수자인 모델하우스의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다.",
 			"url": "https://www.ys-sujain.co.kr/ComplexGuide/intro"
 					}
 					`}
@@ -130,10 +130,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택브레인시티수자인 - 단지배치도
+        브레인시티수자인 모델하우스 - 단지배치도
       </h1>
       <p className={styles.screenReaderOnly}>
-        단지 배치도 페이지는 평택브레인시티수자인의 전체 단지 구성도를
+        단지 배치도 페이지는 브레인시티수자인 모델하우스의 전체 단지 구성도를
         제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을
         시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수
         있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수

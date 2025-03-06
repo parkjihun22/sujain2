@@ -62,22 +62,22 @@ const Interior2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 84A인테리어</title>
+        <title>브레인시티수자인 모델하우스 - 84A인테리어</title>
         <meta
           name="description"
-          content="84A인테리어 페이지에서는 평택브레인시티수자인의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 브레인시티수자인 모델하우스의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link rel="canonical" href="https://www.ys-sujain.co.kr/Interior/84A" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="평택 브레인시티 수자인 - 84A인테리어" />
+        <meta property="og:title" content="브레인시티수자인 모델하우스 - 84A인테리어" />
         <meta
           property="og:description"
-          content="84A인테리어 페이지에서는 평택브레인시티수자인의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 브레인시티수자인 모델하우스의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           property="og:image"
@@ -87,17 +87,17 @@ const Interior2 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/Interior/84A"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 84A인테리어"
+          content="브레인시티수자인 모델하우스 - 84A인테리어"
         />
         <meta
           name="twitter:description"
-          content="84A인테리어 페이지에서는 평택브레인시티수자인의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 브레인시티수자인 모델하우스의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="twitter:image"
@@ -114,8 +114,8 @@ const Interior2 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "평택 브레인시티 수자인 - 84A84A인테리어",
-			 "description": "84A인테리어 페이지에서는 평택브레인시티수자인의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",
+			 "name": "브레인시티수자인 모델하우스 - 84A84A인테리어",
+			 "description": "84A인테리어 페이지에서는 브레인시티수자인 모델하우스의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",
 			 "url": "https://www.ys-sujain.co.kr/Interior/84A"
 				 }
 				 `}
@@ -130,10 +130,10 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택브레인시티수자인 - 84A84A인테리어
+        브레인시티수자인 모델하우스 - 84A84A인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        84A타입의 84A인테리어 페이지에서는 평택브레인시티수자인의 고급 84A인테리어
+        84A타입의 84A인테리어 페이지에서는 브레인시티수자인 모델하우스의 고급 84A인테리어
         디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어,
         입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어
         스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.

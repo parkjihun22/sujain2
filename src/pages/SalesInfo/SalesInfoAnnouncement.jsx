@@ -77,14 +77,14 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 모집공고안내</title>
+        <title>브레인시티수자인 모델하우스 - 모집공고안내</title>
         <meta
           name="description"
           content="평택브레인시티수자인의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요."
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link
           rel="canonical"
@@ -92,7 +92,7 @@ const ComplexGuide1 = () => {
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="평택 브레인시티 수자인 - 모집공고안내" />
+        <meta property="og:title" content="브레인시티수자인 모델하우스 - 모집공고안내" />
         <meta
           property="og:description"
           content="평택브레인시티수자인의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요."
@@ -105,17 +105,17 @@ const ComplexGuide1 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/SalesInfo/announcement"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 모집공고안내"
+          content="브레인시티수자인 모델하우스 - 모집공고안내"
         />
         <meta
           name="twitter:description"
-          content="평택브레인시티수자인의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요."
+          content="브레인시티수자인 모델하우스의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요."
         />
         <meta
           name="twitter:image"

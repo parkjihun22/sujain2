@@ -12,7 +12,7 @@ import tableImage from "../../assets/BusinessGuide/BusinessGuide1/tableImage.jpg
 import { Helmet } from "react-helmet-async";
 
 const projectData = [
-  { label: "사업명", value: "평택 브레인시티 수자인" },
+  { label: "사업명", value: "브레인시티수자인 모델하우스" },
   { label: "사업위치", value: "평택 브레인시티 공동 8BL 공동주택 신축공사" },
   { label: "대지면적", value: "106,050.4985㎡" },
   { label: "건축면적", value: "5,856.1192㎡" },
@@ -65,22 +65,22 @@ const BusinessGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 사업안내</title>
+        <title>브레인시티수자인 모델하우스 - 사업안내</title>
         <meta
           name="description"
-          content="평택브레인시티수자인은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다."
+          content="브레인시티수자인 모델하우스은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다."
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link rel="canonical" href="https://www.ys-sujain.co.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="평택 브레인시티 수자인 - 사업안내" />
+        <meta property="og:title" content="브레인시티수자인 모델하우스 - 사업안내" />
         <meta
           property="og:description"
-          content="평택브레인시티수자인은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다."
+          content="브레인시티수자인 모델하우스은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다."
         />
         <meta
           property="og:image"
@@ -90,17 +90,17 @@ const BusinessGuide1 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/Brand/intro"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 사업안내"
+          content="브레인시티수자인 모델하우스 - 사업안내"
         />
         <meta
           name="twitter:description"
-          content="평택브레인시티수자인은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다."
+          content="브레인시티수자인 모델하우스은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다."
         />
         <meta
           name="twitter:image"
@@ -117,8 +117,8 @@ const BusinessGuide1 = () => {
 		{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "평택 브레인시티 수자인 - 사업안내",
-			"description": "평택브레인시티수자인은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.",
+			"name": "브레인시티수자인 모델하우스 - 사업안내",
+			"description": "브레인시티수자인 모델하우스은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.",
 			"url": "https://www.ys-sujain.co.kr/Brand/intro"
 		}
 		`}
@@ -133,10 +133,10 @@ const BusinessGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        평택브레인시티수자인 - 사업안내
+        브레인시티수자인 모델하우스 - 사업안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        평택브레인시티수자인은 혁신적인 주거 환경을 제공하는 새로운 아파트
+        브레인시티수자인 모델하우스은 혁신적인 주거 환경을 제공하는 새로운 아파트
         단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을
         상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을
         포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록
@@ -148,7 +148,7 @@ const BusinessGuide1 = () => {
           평택 제2의 고덕신도시를 꿈꾸는 브레인시티를 누리는 특별한 라이프
           컬렉션
         </div>
-        <div>평택 브레인시티 수자인의 새로운 자부심으로 찾아옵니다.</div>
+        <div>브레인시티수자인 모델하우스의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       <img

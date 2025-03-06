@@ -103,21 +103,21 @@ const LocationEnvironment1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>평택 브레인시티 수자인 - 입지안내</title>
+        <title>브레인시티수자인 모델하우스 - 입지안내</title>
         <meta
           name="description"
           content="이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요"
         />
         <meta
           name="keywords"
-          content="브레인시티수자인, 평택브레인시티수자인, 브레인시티수자인모델하우스"
+          content="브레인시티수자인 모델하우스"
         />
         <link rel="canonical" href="https://www.ys-sujain.co.kr/LocationEnvironment/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="평택 브레인시티 수자인 - 입지안내"
+          content="브레인시티수자인 모델하우스 - 입지안내"
         />
         <meta
           property="og:description"
@@ -131,13 +131,13 @@ const LocationEnvironment1 = () => {
           property="og:url"
           content="https://www.ys-sujain.co.kr/LocationEnvironment/intro"
         />
-        <meta property="og:site_name" content="평택 브레인시티 수자인" />
+        <meta property="og:site_name" content="브레인시티수자인 모델하우스" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="평택 브레인시티 수자인 - 입지안내"
+          content="브레인시티수자인 모델하우스 - 입지안내"
         />
         <meta
           name="twitter:description"
@@ -158,7 +158,7 @@ const LocationEnvironment1 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "평택 브레인시티 수자인 - 입지안내",
+			 "name": "브레인시티수자인 모델하우스 - 입지안내",
 			 "description": "이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요",
 			 "url": "https://www.ys-sujain.co.kr/LocationEnvironment/intro"
 				 }
