@@ -41,6 +41,7 @@ import map1 from "../../assets/Main/map1.jpg";
 import mobilemap1 from "../../assets/Main/mobilemap1.jpg";
 
 import subpinkimg from "../../assets/Main/subpinkimg.jpg";
+import UrlContainer from "../../components/UrlContainer/UrlContainer";
 
 const section3Contents = [
   {
@@ -403,6 +404,7 @@ const Main = () => {
           </div> */}
 
           <div className={styles.section5}>
+            <UrlContainer />
             <Footer />
           </div>
 
@@ -593,6 +595,7 @@ const Main = () => {
           </div> */}
 
           <div className={styles.section5}>
+          <UrlContainer />
             <Footer />
             <FixIcon />
           </div>

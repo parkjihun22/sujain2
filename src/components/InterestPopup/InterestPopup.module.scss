@@ -155,3 +155,17 @@
     }
   }
 }
+
+
+.successMessage {
+  font-size: 0.9vw; /* PC 버전에서의 기본 폰트 크기 */
+  color: #000000; /* 기본 글자 색상 */
+}
+
+/* 모바일 버전 스타일 */
+@media screen and (max-width: 768px) {
+  .successMessage {
+    font-size: 2.3vw; /* 모바일에서의 폰트 크기 */
+    color: #000000; /* 모바일에서의 글자 색상 (예: 빨간색) */
+  }
+}
